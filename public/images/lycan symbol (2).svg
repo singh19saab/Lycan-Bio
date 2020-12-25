@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="217.188" height="247.097" viewBox="0 0 217.188 247.097">
+  <g id="Group_2" data-name="Group 2" transform="translate(-36.803 -30)">
+    <line id="Line_5" data-name="Line 5" x2="106.84" y2="106.85" transform="translate(38.64 31.987)" fill="#3d91cf"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="3.77" height="151.09" transform="translate(37.313 33.324) rotate(-45)" fill="#3d91cf"/>
+    <line id="Line_6" data-name="Line 6" x1="106.84" y2="106.85" transform="translate(145.27 31.987)" fill="#3d91cf"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="151.09" height="3.77" transform="translate(143.935 137.503) rotate(-45)" fill="#3d91cf"/>
+    <line id="Line_7" data-name="Line 7" y2="136.37" transform="translate(145.48 138.837)" fill="#3d91cf"/>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="3.77" height="136.37" transform="translate(143.6 138.837)" fill="#3d91cf"/>
+    <line id="Line_8" data-name="Line 8" x1="106.63" y2="185.51" transform="translate(145.48 31.987)" fill="#3d91cf"/>
+    <path id="Path_6" data-name="Path 6" d="M283.44,364a1.883,1.883,0,0,1-1.64-2.82l106.63-185.5a1.882,1.882,0,1,1,3.26,1.88L285.07,363.1a1.89,1.89,0,0,1-1.63.9Z" transform="translate(-137.95 -144.663)" fill="#3d91cf"/>
+    <line id="Line_9" data-name="Line 9" x2="106.63" y2="185.51" transform="translate(38.75 31.987)" fill="#3d91cf"/>
+    <path id="Path_7" data-name="Path 7" d="M283.33,364a1.88,1.88,0,0,1-1.63-.94L175.07,177.6a1.89,1.89,0,1,1,3.27-1.88L285,361.22a1.88,1.88,0,0,1-1.63,2.82Z" transform="translate(-137.95 -144.663)" fill="#3d91cf"/>
+    <line id="Line_10" data-name="Line 10" x2="160.05" y2="53.21" transform="translate(38.64 31.987)" fill="#3d91cf"/>
+    <path id="Path_8" data-name="Path 8" d="M336.64,231.75a2,2,0,0,1-.59-.1l-160-53.2a1.89,1.89,0,0,1,1.19-3.58l160.05,53.2a1.89,1.89,0,0,1-.6,3.68Z" transform="translate(-137.95 -144.663)" fill="#3d91cf"/>
+    <line id="Line_11" data-name="Line 11" x1="160.05" y2="53.21" transform="translate(92.06 31.987)" fill="#3d91cf"/>
+    <path id="Path_9" data-name="Path 9" d="M230,231.75a1.89,1.89,0,0,1-.6-3.68l160.05-53.2a1.89,1.89,0,0,1,1.19,3.58l-160,53.2a2.09,2.09,0,0,1-.64.1Z" transform="translate(-137.95 -144.663)" fill="#3d91cf"/>
+    <line id="Line_12" data-name="Line 12" y2="82.73" transform="translate(145.48 138.837)" fill="#3d91cf"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="3.77" height="82.74" transform="translate(143.6 138.837)" fill="#3d91cf"/>
+    <line id="Line_13" data-name="Line 13" x1="53.21" y2="190.01" transform="translate(145.48 85.197)" fill="#3d91cf"/>
+    <path id="Path_10" data-name="Path 10" d="M283.44,421.76a2.239,2.239,0,0,1-.51-.07,1.89,1.89,0,0,1-1.31-2.33l53.21-190a1.88,1.88,0,1,1,3.62,1l-53.2,190a1.89,1.89,0,0,1-1.81,1.4Z" transform="translate(-137.95 -144.663)" fill="#3d91cf"/>
+    <line id="Line_14" data-name="Line 14" x2="53.21" y2="190.01" transform="translate(92.06 85.197)" fill="#3d91cf"/>
+    <path id="Path_11" data-name="Path 11" d="M283.22,421.76a1.88,1.88,0,0,1-1.81-1.38l-53.21-190a1.89,1.89,0,0,1,3.63-1l53.2,190a1.88,1.88,0,0,1-1.3,2.33,2.239,2.239,0,0,1-.51.05Z" transform="translate(-137.95 -144.663)" fill="#3d91cf"/>
+    <line id="Line_15" data-name="Line 15" x2="42.55" y2="178.93" transform="translate(102.93 96.277)" fill="#3d91cf"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="1.51" height="183.91" transform="matrix(0.973, -0.231, 0.231, 0.973, 102.215, 96.442)" fill="#3d91cf"/>
+    <line id="Line_16" data-name="Line 16" x2="34.13" y2="170.5" transform="translate(111.35 104.707)" fill="#3d91cf"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="1.51" height="173.88" transform="translate(110.621 104.851) rotate(-11.32)" fill="#3d91cf"/>
+    <line id="Line_17" data-name="Line 17" x2="24.61" y2="159.35" transform="translate(120.64 113.987)" fill="#3d91cf"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="1.51" height="161.23" transform="translate(119.901 114.111) rotate(-8.78)" fill="#3d91cf"/>
+    <line id="Line_18" data-name="Line 18" x2="17.06" y2="153.44" transform="translate(128.42 121.767)" fill="#3d91cf"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="1.51" height="154.38" transform="matrix(0.994, -0.111, 0.111, 0.994, 127.682, 121.833)" fill="#3d91cf"/>
+    <line id="Line_19" data-name="Line 19" x2="9.38" y2="144.12" transform="translate(135.87 129.217)" fill="#3d91cf"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="1.51" height="144.42" transform="translate(135.137 129.238) rotate(-3.73)" fill="#3d91cf"/>
+    <line id="Line_20" data-name="Line 20" x1="42.55" y2="178.93" transform="translate(145.48 96.277)" fill="#3d91cf"/>
+    <rect id="Rectangle_14" data-name="Rectangle 14" width="183.91" height="1.51" transform="matrix(0.231, -0.973, 0.973, 0.231, 144.738, 274.998)" fill="#3d91cf"/>
+    <line id="Line_21" data-name="Line 21" x1="34.13" y2="170.5" transform="translate(145.48 104.707)" fill="#3d91cf"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="173.88" height="1.51" transform="translate(144.746 275.046) rotate(-78.68)" fill="#3d91cf"/>
+    <line id="Line_22" data-name="Line 22" x1="25.45" y2="162.04" transform="translate(145.48 113.167)" fill="#3d91cf"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="164.02" height="1.51" transform="matrix(0.155, -0.988, 0.988, 0.155, 144.735, 275.096)" fill="#3d91cf"/>
+    <line id="Line_23" data-name="Line 23" x1="9.38" y2="144.12" transform="translate(145.72 129.217)" fill="#3d91cf"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="144.42" height="1.51" transform="translate(144.927 273.275) rotate(-86.25)" fill="#3d91cf"/>
+    <line id="Line_24" data-name="Line 24" x1="116.24" y2="97.23" transform="translate(135.87 31.987)" fill="#3d91cf"/>
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="151.54" height="1.51" transform="translate(135.397 128.643) rotate(-39.93)" fill="#3d91cf"/>
+    <line id="Line_25" data-name="Line 25" x1="123.69" y2="89.78" transform="translate(128.42 31.987)" fill="#3d91cf"/>
+    <rect id="Rectangle_19" data-name="Rectangle 19" width="152.83" height="1.51" transform="translate(127.955 121.124) rotate(-35.94)" fill="#3d91cf"/>
+    <line id="Line_26" data-name="Line 26" x1="131.47" y2="82" transform="translate(120.64 31.987)" fill="#3d91cf"/>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="154.94" height="1.51" transform="translate(120.242 113.355) rotate(-31.95)" fill="#3d91cf"/>
+    <line id="Line_27" data-name="Line 27" x1="140.76" y2="72.72" transform="translate(111.35 31.987)" fill="#3d91cf"/>
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="158.42" height="1.51" transform="matrix(0.888, -0.459, 0.459, 0.888, 111.007, 104.005)" fill="#3d91cf"/>
+    <line id="Line_28" data-name="Line 28" x1="149.18" y2="64.29" transform="translate(102.93 31.987)" fill="#3d91cf"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="162.44" height="1.51" transform="translate(102.64 95.559) rotate(-23.3)" fill="#3d91cf"/>
+    <line id="Line_29" data-name="Line 29" x2="149.28" y2="64.29" transform="translate(38.75 31.987)" fill="#3d91cf"/>
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="1.51" height="162.54" transform="translate(38.451 32.687) rotate(-66.7)" fill="#3d91cf"/>
+    <line id="Line_30" data-name="Line 30" x2="140.97" y2="72.72" transform="translate(38.64 31.987)" fill="#3d91cf"/>
+    <rect id="Rectangle_24" data-name="Rectangle 24" width="1.51" height="158.62" transform="translate(38.283 32.644) rotate(-62.72)" fill="#3d91cf"/>
+    <line id="Line_31" data-name="Line 31" x2="132.29" y2="81.18" transform="translate(38.64 31.987)" fill="#3d91cf"/>
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="1.51" height="155.21" transform="translate(38.265 32.648) rotate(-58.46)" fill="#3d91cf"/>
+    <line id="Line_32" data-name="Line 32" x2="123.91" y2="87.8" transform="translate(38.64 31.987)" fill="#3d91cf"/>
+    <rect id="Rectangle_26" data-name="Rectangle 26" width="1.51" height="151.86" transform="translate(38.211 32.593) rotate(-54.68)" fill="#3d91cf"/>
+    <line id="Line_33" data-name="Line 33" x2="116.35" y2="97.23" transform="translate(38.75 31.987)" fill="#3d91cf"/>
+    <rect id="Rectangle_27" data-name="Rectangle 27" width="1.51" height="151.62" transform="translate(38.257 32.556) rotate(-50.12)" fill="#3d91cf"/>
+    <line id="Line_34" data-name="Line 34" x1="18.36" y2="153.32" transform="translate(145.72 120.017)" fill="#3d91cf"/>
+    <rect id="Rectangle_28" data-name="Rectangle 28" width="154.41" height="1.51" transform="translate(144.959 273.237) rotate(-83.16)" fill="#3d91cf"/>
+  </g>
+</svg>

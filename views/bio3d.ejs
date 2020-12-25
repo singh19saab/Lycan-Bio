@@ -1,0 +1,294 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LYCAN BIO | <%=title%></title>
+    <link rel="icon" href="images/lycan symbol (2).svg" type="image/x-icon">
+    <link rel="stylesheet" href="css/nav.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="bootstrap4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <style>
+        body {
+            background-color: white;
+            font-family: 'Inter';
+        }
+
+        .fa-facebook-official,
+        .fa-linkedin-square,
+        .fa-twitter {
+            font-size: 50px
+        }
+
+        .para {
+            background-color: #606366;
+            color: #708dba;
+            padding: 0 8px;
+            border-radius: 20px;
+            text-align: center;
+            box-shadow: 10px 10px 5px grey;
+        }
+
+        .flip-card {
+            background-color: transparent;
+            width: 300px;
+            height: 300px;
+            perspective: 1000px;
+        }
+
+        .flip-card-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            transition: transform 0.6s;
+            transform-style: preserve-3d;
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        }
+
+        .flip-card:hover .flip-card-inner {
+            transform: rotateY(180deg);
+        }
+
+        .flip-card-front,
+        .flip-card-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+        }
+
+        .flip-card-front {
+            background-color: #bbb;
+            color: black;
+        }
+
+        .flip-card-back {
+            background-color: rgb(8, 170, 170);
+            color: white;
+            text-align: center;
+            padding-top: 30%;
+            transform: rotateY(180deg);
+        }
+    </style>
+</head>
+
+<body>
+    <%- include('./partials/nav.ejs') %>
+    <!--landing/xlarge-->
+    <div class="ly-display-container ly-padding-top-100 ly-hide-small ly-hide-medium ly-hide-large">
+        <div class="row">
+            <div class="col-xl-6">
+                <div style="padding:35% 0 0 15%;">
+                    <h1 style="font-size: 110px;">
+                        Bio 3D Printing
+                    </h1>
+                </div>
+            </div>
+            <div class="col-xl-6" style="padding: 5% 0 0 5%;">
+                <img src="images/bio3d/landing img.png" alt="" width="100%" height="auto">
+            </div>
+        </div>
+    </div>
+    <!--landing/large-->
+    <div class="ly-display-container ly-padding-top-100 ly-hide-small ly-hide-medium ly-hide-xlarge">
+        <div class="row">
+            <div class="col-lg-6">
+                <div style=" padding: 25% 5% 0 20%;">
+                    <h1 style="font-size: 90px;">
+                        Bio 3D Printing
+                    </h1>
+                </div>
+            </div>
+            <div class="col-lg-6" style="padding: 2% 0 0 2%;">
+                <img src="images/bio3d/landing img.png" alt="" width="100%" height="auto">
+            </div>
+        </div>
+    </div>
+    <!--landing/medium-->
+    <div class="ly-container ly-padding-top-32 ly-hide-small ly-hide-large ly-hide-xlarge">
+        <div class="row">
+            <div class="col-md-6">
+                <div style=" padding: 25% 0 0 12%;">
+                    <h1 style="font-size: 70px;">
+                        Bio 3D Printing
+                    </h1>
+                </div>
+            </div>
+            <div class="col-md-6" style="padding: 8% 0 0 5%;">
+                <img src="images/bio3d/landing img.png" alt="" width="100%" height="auto">
+            </div>
+        </div>
+    </div>
+    <!--landing/small-->
+    <div class="ly-container ly-padding-top-64 ly-hide-medium ly-hide-large ly-hide-xlarge">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="ly-center" style=" padding: 0% 2% 0 2%;">
+                    <h1 style="font-size: 40px;font-weight: 400;letter-spacing: 1px;">
+                        Bio 3D Printing
+                    </h1>
+                </div>
+            </div>
+            <div class="col-sm-12" style="padding: 2% 2% 0 2%;">
+                <img src="images/bio3d/landing-mob.png" alt="" width="100%" height="auto">
+            </div>
+        </div>
+    </div>
+
+    <!--Bio 3d/xlarge-->
+    <div class="ly-container ly-padding-top-64 ly-hide-small ly-hide-medium ly-hide-large">
+        <div class="ly-center">
+            <h1 style="font-size: 90px;font-weight: 400;letter-spacing: 3px;color: #727272;">
+                Bio 3D Printer for Researchers
+            </h1>
+        </div>
+        <div class="row">
+            <div class="col-xl-6" style="padding: 0 5% 0 5%;">
+                <img src="images/bio3d/bio 3d.png" alt="" width="100%" height="auto">
+            </div>
+            <div class="col-xl-6" style="padding-top: 4%;padding-right: 4%;">
+                <div>
+                    <div style="padding-top: 80px;">
+                        <p class="ly-xxlarge" style="text-align:justify;">
+                            Take your research to the next level with customisable 3D Bioprinters which help accurately
+                            create tissues using diverse types of cells, cell structures, biomaterials and temperature
+                            conditions. A multi-extruder mechanism offers prints with combinations of up to 4 different
+                            biomaterials, cells and their structures - enabling comprehensive research in any field. The
+                            inclusion of an inbuilt UV steriliser ensures that the prints are in pristine hygienic
+                            condition for accurate tests and results.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Bio 3d/large-->
+    <div class="ly-container ly-padding-top-64 ly-hide-small ly-hide-medium ly-hide-xlarge">
+        <div class="ly-center">
+            <h1 style="font-size: 70px;font-weight: 400;letter-spacing: 3px;color: #727272;">
+                Bio 3D Printer for Researchers
+            </h1>
+        </div>
+        <div class="row">
+            <div class="col-xl-6" style="padding: 0 5% 0 5%;">
+                <img src="images/bio3d/bio 3d.png" alt="" width="90%" height="auto">
+            </div>
+            <div class="col-xl-6" style="padding-top: 6%;padding-right: 4%;">
+                <div>
+                    <div class="ly-padding-top-64">
+                        <p class="ly-xlarge" style="text-align:justify;">
+                            Take your research to the next level with customisable 3D Bioprinters which help accurately
+                            create tissues using diverse types of cells, cell structures, biomaterials and temperature
+                            conditions. A multi-extruder mechanism offers prints with combinations of up to 4 different
+                            biomaterials, cells and their structures - enabling comprehensive research in any field. The
+                            inclusion of an inbuilt UV steriliser ensures that the prints are in pristine hygienic
+                            condition for accurate tests and results.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Bio 3d/medium-->
+    <div class="ly-container ly-padding-top-64 ly-hide-small ly-hide-large ly-hide-xlarge">
+        <div class="ly-center">
+            <h1 style="font-size: 50px;font-weight: 400;letter-spacing: 3px;color: #727272;">
+                Bio 3D Printer for Researchers
+            </h1>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="ly-image ly-padding-16">
+                    <img src="images/bio3d/bio 3d.png" alt="" width="100%" height="auto">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div>
+                    <div class="ly-padding-top-32" style="padding-right: 4%;">
+                        <p class="ly-large" style="text-align:justify;">
+                            Take your research to the next level with customisable 3D Bioprinters which help accurately
+                            create tissues using diverse types of cells, cell structures, biomaterials and temperature
+                            conditions. A multi-extruder mechanism offers prints with combinations of up to 4 different
+                            biomaterials, cells and their structures - enabling comprehensive research in any field. The
+                            inclusion of an inbuilt UV steriliser ensures that the prints are in pristine hygienic
+                            condition for accurate tests and results.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Bio 3d/smqll-->
+    <div class="ly-container ly-padding-top-16 ly-hide-medium ly-hide-large ly-hide-xlarge">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="ly-row-padding">
+                    <p class="ly-large" style="text-align:justify;">
+                        Take your research to the next level with customisable 3D Bioprinters which help accurately
+                        create tissues using diverse types of cells, cell structures, biomaterials and temperature
+                        conditions. A multi-extruder mechanism offers prints with combinations of up to 4 different
+                        biomaterials, cells and their structures - enabling comprehensive research in any field. The
+                        inclusion of an inbuilt UV steriliser ensures that the prints are in pristine hygienic
+                        condition for accurate tests and results.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--process Flow/large-->
+    <div class="ly-container ly-hide-small  ly-padding-32">
+        <div class="ly-center ly-hide-medium ly-hide-large">
+            <h1 style="font-size: 90px;font-weight: 400;letter-spacing: 3px;color: #727272;">
+                Our Products
+            </h1>
+        </div>
+        <div class="ly-center ly-hide-medium ly-hide-xlarge">
+            <h1 style="font-size: 70px;font-weight: 400;letter-spacing: 3px;color: #727272;">
+                Our Products
+            </h1>
+        </div>
+        <div class="ly-center ly-hide-large ly-hide-xlarge">
+            <h1 style="font-size: 50px;font-weight: 400;letter-spacing: 3px;color: #727272;">
+                Our Products
+            </h1>
+        </div>
+        <div class="ly-image ly-hide-xlarge">
+            <img src="images/bio3d/process-desktop.png" alt="process-flow" width="100%" height="auto"
+                data-aos=slide-up>
+        </div>
+        <div class="ly-image ly-hide-medium ly-hide-large ly-center">
+            <img src="images/bio3d/process-desktop.png" alt="process-flow" width="80%" height="auto"
+                data-aos=slide-up>
+        </div>
+    </div>
+
+    <!--processflow/small-->
+    <div class="ly-container ly-padding-32 ly-hide-medium ly-hide-large ly-hide-xlarge">
+        <div class="ly-center">
+            <h1 style="font-size: 40px;font-weight: 300;letter-spacing: 3px;color: #727272;">
+                Our Products
+            </h1>
+        </div>
+        <div class="ly-image ly-padding-top-24">
+            <img src="images/bio3d/process-mob.png" alt="Process Flow" width="100%" height="auto">
+        </div>
+    </div>
+    <!--Footer-->
+    <%- include('./partials/footer.ejs') %>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="bootstrap4/js/bootstrap.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script>                  
+        AOS.init({
+            duration: 1200,
+        })
+    </script>
+</body>
+
+</html>
